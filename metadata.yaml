@@ -1,0 +1,28 @@
+_repo: Sinners-and-Saints-A-Tour-Across-the-States-and-Round-Them-with-Three-Months-Among-the-Mormon__54079
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Robinson, Phil
+    alias: Robinson, Philip Stewart
+    birthdate: 1847
+    deathdate: 1902
+    gutenberg_agent_id: '44188'
+    url: http://www.gutenberg.org/2009/agents/44188
+description: ''
+gutenberg_issued: '2017-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54079'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'Mormon Church'
+- !lcsh 'Utah -- Description and travel'
+- !lcc 'F786'
+- GITenberg
+title: "Sinners and Saints\r\nA Tour Across the States and Round Them, with Three\
+  \ Months Among the Mormons"
+url: http://www.gutenberg.org/ebooks/54079
